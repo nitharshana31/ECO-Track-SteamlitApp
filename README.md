@@ -41,8 +41,8 @@ To run the EcoTrack prototype locally, follow these steps:
 
 bash
 # Assuming a repository structure
-git clone <Your_GitHub_Repo_Link>
-cd EcoTrack
+git clone https://github.com/nitharshana31/ECO-Track-SteamlitApp.git
+cd ECO-Track-SteamlitApp
 
 
 ### 2\. Install Dependencies
